@@ -1,6 +1,3 @@
-# Query-Guided Spatial–Temporal–Frequency Interaction for Music Audio–Visual Question Answering
-
-⭐ **Accepted at ICLR 2026** ⭐
 
 <div align="center">
 <h3>
