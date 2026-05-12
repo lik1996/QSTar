@@ -1,8 +1,8 @@
 # Query-Guided Spatial–Temporal–Frequency Interaction for Music Audio–Visual Question Answering
 ⭐ **Accepted at ICLR 2026** ⭐
 
-Kun Li<sup>1, 
-Michael Ying Yang<sup>2,
+Kun Li<sup>1</sup>, 
+Michael Ying Yang<sup>2</sup>,
 Sami Sebastian Brandt<sup>3</sup> 
 
 <sup>1</sup>University of Twente, NL, 
