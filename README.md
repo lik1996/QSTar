@@ -3,6 +3,13 @@
 ⭐ **Accepted at ICLR 2026** ⭐
 
 <div align="center">
+<h3>
+Query-Guided Spatial–Temporal–Frequency Interaction for Music Audio–Visual Question Answering
+
+⭐ **Accepted at ICLR 2026** ⭐
+</h3>
+
+
 Kun Li<sup>1</sup>, 
 Michael Ying Yang<sup>2</sup>,
 Sami Sebastian Brandt<sup>3</sup> 
