@@ -1,4 +1,6 @@
 # Query-Guided Spatial–Temporal–Frequency Interaction for Music Audio–Visual Question Answering
+
+<div align="center">
 ⭐ **Accepted at ICLR 2026** ⭐
 
 Kun Li<sup>1</sup>, 
@@ -9,13 +11,13 @@ Sami Sebastian Brandt<sup>3</sup>
 <sup>2</sup>University of Bath, UK,
 <sup>3</sup>IT University of Copenhagen, DK
 
+</div>
 
 <!-- <img src='assets/flowchart.png' /> -->
 
 
 
 ## 🚩 Updates
-- 2026.04 The github link has been created.
 - 2026.01 QSTar has been accepted at ICLR 2026!
 
 
